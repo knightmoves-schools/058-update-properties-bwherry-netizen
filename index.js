@@ -4,7 +4,7 @@ let person = {
 
 
 function celebrateBirthday {
-person.age = age + 1;
-return "person";
+person = age + 1;
 }
+
 
